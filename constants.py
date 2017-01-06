@@ -1,1 +1,1 @@
-plik_csv = ~/data_science/data/dane.csv
+plik_csv = '~/data_science/data/dane.csv'
