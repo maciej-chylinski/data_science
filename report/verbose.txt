@@ -1,0 +1,188 @@
+Wstêpne poprawianie danych:
+
+Podstawowa statystyka dla: AH
+MIN: 0.1847
+MAX: 2.231
+ŒREDNIA: 1.0236241851
+MEDIANA: 0.9768
+ODCH. STD: 0.395926957614
+WARIANCJA: 0.156758155765
+HISTOGRAM: (array([ 385, 1062, 1285, 2208, 1599, 1081,  976,  512,  204,   45], dtype=int64), array([ 0.1847 ,  0.38933,  0.59396,  0.79859,  1.00322,  1.20785,
+        1.41248,  1.61711,  1.82174,  2.02637,  2.231  ]))
+
+
+Podstawowa statystyka dla: CO_GT
+MIN: 0.1
+MAX: 11.9
+ŒREDNIA: 2.03534252431
+MEDIANA: 1.5
+ODCH. STD: 1.33966550624
+WARIANCJA: 1.79470366861
+HISTOGRAM: (array([2370, 4442, 1454,  674,  252,  102,   38,   19,    4,    2], dtype=int64), array([  0.1 ,   1.28,   2.46,   3.64,   4.82,   6.  ,   7.18,   8.36,
+         9.54,  10.72,  11.9 ]))
+
+
+Podstawowa statystyka dla: T
+MIN: -1.9
+MAX: 44.6
+ŒREDNIA: 18.2741049482
+MEDIANA: 17.2
+ODCH. STD: 8.65988872438
+WARIANCJA: 74.9936727187
+HISTOGRAM: (array([ 117,  901, 1335, 1817, 1977, 1471,  881,  487,  310,   61], dtype=int64), array([ -1.9 ,   2.75,   7.4 ,  12.05,  16.7 ,  21.35,  26.  ,  30.65,
+        35.3 ,  39.95,  44.6 ]))
+
+
+Podstawowa statystyka dla: C6H6_GT
+MIN: 0.1
+MAX: 63.7
+ŒREDNIA: 9.99771294218
+MEDIANA: 7.9
+ODCH. STD: 7.31451502624
+WARIANCJA: 53.5021300691
+HISTOGRAM: (array([3497, 3265, 1510,  700,  254,   92,   22,   15,    1,    1], dtype=int64), array([  0.1 ,   6.46,  12.82,  19.18,  25.54,  31.9 ,  38.26,  44.62,
+        50.98,  57.34,  63.7 ]))
+
+
+Podstawowa statystyka dla: Nox_GT
+MIN: 2.0
+MAX: 1479.0
+ŒREDNIA: 228.347547291
+MEDIANA: 141.0
+ODCH. STD: 197.560344034
+WARIANCJA: 39030.0895347
+HISTOGRAM: (array([4884, 2273, 1014,  577,  305,  167,   73,   36,   22,    6], dtype=int64), array([    2. ,   149.7,   297.4,   445.1,   592.8,   740.5,   888.2,
+        1035.9,  1183.6,  1331.3,  1479. ]))
+
+
+Podstawowa statystyka dla: PT08_S1_CO
+MIN: 647.0
+MAX: 2040.0
+ŒREDNIA: 1098.00128246
+MEDIANA: 1053.0
+ODCH. STD: 212.973926935
+WARIANCJA: 45357.893554
+HISTOGRAM: (array([ 269, 1783, 2827, 1951, 1227,  747,  383,  117,   41,   12], dtype=int64), array([  647. ,   786.3,   925.6,  1064.9,  1204.2,  1343.5,  1482.8,
+        1622.1,  1761.4,  1900.7,  2040. ]))
+
+
+Podstawowa statystyka dla: NMHC_GT
+MIN: -200.0
+MAX: 1189.0
+ŒREDNIA: -159.090092979
+MEDIANA: -200.0
+ODCH. STD: 139.781622937
+WARIANCJA: 19538.9021109
+HISTOGRAM: (array([8443,  264,  322,  151,   73,   46,   33,   19,    3,    3], dtype=int64), array([ -200. ,   -61.1,    77.8,   216.7,   355.6,   494.5,   633.4,
+         772.3,   911.2,  1050.1,  1189. ]))
+
+
+Podstawowa statystyka dla: RH
+MIN: 9.2
+MAX: 88.7
+ŒREDNIA: 49.2093940366
+MEDIANA: 48.6
+ODCH. STD: 16.97433951
+WARIANCJA: 288.128201802
+HISTOGRAM: (array([ 211,  667,  950, 1157, 1762, 1424, 1315,  985,  666,  220], dtype=int64), array([  9.2 ,  17.15,  25.1 ,  33.05,  41.  ,  48.95,  56.9 ,  64.85,
+        72.8 ,  80.75,  88.7 ]))
+
+
+Podstawowa statystyka dla: PT08_S5_O3
+MIN: 221.0
+MAX: 2523.0
+ŒREDNIA: 1019.74147697
+MEDIANA: 942.0
+ODCH. STD: 390.906262228
+WARIANCJA: 152807.705849
+HISTOGRAM: (array([ 414, 1404, 2188, 2298, 1294,  908,  521,  229,   74,   27], dtype=int64), array([  221. ,   451.2,   681.4,   911.6,  1141.8,  1372. ,  1602.2,
+        1832.4,  2062.6,  2292.8,  2523. ]))
+
+
+Podstawowa statystyka dla: PT08_S4_NO2
+MIN: 551.0
+MAX: 2775.0
+ŒREDNIA: 1455.86309715
+MEDIANA: 1446.0
+ODCH. STD: 339.35525904
+WARIANCJA: 115161.991838
+HISTOGRAM: (array([ 128,  817, 1250, 2066, 2764, 1392,  633,  202,   77,   28], dtype=int64), array([  551. ,   773.4,   995.8,  1218.2,  1440.6,  1663. ,  1885.4,
+        2107.8,  2330.2,  2552.6,  2775. ]))
+
+
+Podstawowa statystyka dla: PT08_S3_Nox
+MIN: 322.0
+MAX: 2683.0
+ŒREDNIA: 833.870578177
+MEDIANA: 794.0
+ODCH. STD: 251.859000868
+WARIANCJA: 63432.9563183
+HISTOGRAM: (array([1114, 3570, 2964, 1197,  346,  104,   44,   11,    4,    3], dtype=int64), array([  322. ,   558.1,   794.2,  1030.3,  1266.4,  1502.5,  1738.6,
+        1974.7,  2210.8,  2446.9,  2683. ]))
+
+
+Podstawowa statystyka dla: PT08_S2_NMHC
+MIN: 383.0
+MAX: 2214.0
+ŒREDNIA: 937.426311852
+MEDIANA: 895.0
+ODCH. STD: 261.686297973
+WARIANCJA: 68479.7185468
+HISTOGRAM: (array([ 477, 1945, 2754, 1925, 1318,  646,  208,   63,   20,    1], dtype=int64), array([  383. ,   566.1,   749.2,   932.3,  1115.4,  1298.5,  1481.6,
+        1664.7,  1847.8,  2030.9,  2214. ]))
+
+
+Podstawowa statystyka dla: NO2_GT
+MIN: 2.0
+MAX: 340.0
+ŒREDNIA: 110.092016672
+MEDIANA: 96.0
+ODCH. STD: 44.3971767765
+WARIANCJA: 1971.10930572
+HISTOGRAM: (array([ 216, 1298, 3643, 2093, 1156,  606,  238,   77,   23,    7], dtype=int64), array([   2. ,   35.8,   69.6,  103.4,  137.2,  171. ,  204.8,  238.6,
+        272.4,  306.2,  340. ]))
+
+Ostateczne poprawienie danych:
+Mediana: AH po wykluczeniu wartoœci nieprawd³owych: 0.9768
+Mediana: CO_GT po wykluczeniu wartoœci nieprawd³owych: 1.5
+Mediana: T po wykluczeniu wartoœci nieprawd³owych: 17.2
+Mediana: C6H6_GT po wykluczeniu wartoœci nieprawd³owych: 7.9
+Mediana: Nox_GT po wykluczeniu wartoœci nieprawd³owych: 141.0
+Mediana: PT08_S1_CO po wykluczeniu wartoœci nieprawd³owych: 1053.0
+Mediana: NMHC_GT po wykluczeniu wartoœci nieprawd³owych: 150.0
+Mediana: RH po wykluczeniu wartoœci nieprawd³owych: 48.6
+Mediana: PT08_S5_O3 po wykluczeniu wartoœci nieprawd³owych: 942.0
+Mediana: PT08_S4_NO2 po wykluczeniu wartoœci nieprawd³owych: 1446.0
+Mediana: PT08_S3_Nox po wykluczeniu wartoœci nieprawd³owych: 794.0
+Mediana: PT08_S2_NMHC po wykluczeniu wartoœci nieprawd³owych: 895.0
+Mediana: NO2_GT po wykluczeniu wartoœci nieprawd³owych: 96.0
+
+Sprawdzenie korelacji:
+Silna korelacja miêdzy CO_GT a C6H6_GT : 0.802251581903
+Silna korelacja miêdzy CO_GT a Nox_GT : 0.791624000154
+Silna korelacja miêdzy CO_GT a PT08_S1_CO : 0.775029012384
+Silna korelacja miêdzy CO_GT a PT08_S5_O3 : 0.762061522303
+Silna korelacja miêdzy CO_GT a PT08_S2_NMHC : 0.790321338488
+Silna korelacja miêdzy C6H6_GT a CO_GT : 0.802251581903
+Silna korelacja miêdzy C6H6_GT a PT08_S1_CO : 0.88397896334
+Silna korelacja miêdzy C6H6_GT a PT08_S5_O3 : 0.865863834946
+Silna korelacja miêdzy C6H6_GT a PT08_S4_NO2 : 0.764774586697
+Silna korelacja miêdzy C6H6_GT a PT08_S2_NMHC : 0.981673245516
+Silna korelacja miêdzy Nox_GT a CO_GT : 0.791624000154
+Silna korelacja miêdzy Nox_GT a NO2_GT : 0.768881291528
+Silna korelacja miêdzy PT08_S1_CO a CO_GT : 0.775029012384
+Silna korelacja miêdzy PT08_S1_CO a C6H6_GT : 0.88397896334
+Silna korelacja miêdzy PT08_S1_CO a PT08_S5_O3 : 0.89949290942
+Silna korelacja miêdzy PT08_S1_CO a PT08_S2_NMHC : 0.893069642991
+Silna korelacja miêdzy PT08_S5_O3 a CO_GT : 0.762061522303
+Silna korelacja miêdzy PT08_S5_O3 a C6H6_GT : 0.865863834946
+Silna korelacja miêdzy PT08_S5_O3 a PT08_S1_CO : 0.89949290942
+Silna korelacja miêdzy PT08_S5_O3 a PT08_S2_NMHC : 0.880710257499
+Silna korelacja miêdzy PT08_S4_NO2 a C6H6_GT : 0.764774586697
+Silna korelacja miêdzy PT08_S4_NO2 a PT08_S2_NMHC : 0.777016978588
+Silna korelacja miêdzy PT08_S2_NMHC a CO_GT : 0.790321338488
+Silna korelacja miêdzy PT08_S2_NMHC a C6H6_GT : 0.981673245516
+Silna korelacja miêdzy PT08_S2_NMHC a PT08_S1_CO : 0.893069642991
+Silna korelacja miêdzy PT08_S2_NMHC a PT08_S5_O3 : 0.880710257499
+Silna korelacja miêdzy PT08_S2_NMHC a PT08_S4_NO2 : 0.777016978588
+Silna korelacja miêdzy NO2_GT a Nox_GT : 0.768881291528
